@@ -9,8 +9,8 @@ class settings {
     const asterisk_mysql_user = 'root';
     const asterisk_mysql_pass = '123';
     const asterisk_mysql_base = 'asteriskcdrdb';
-    const sms_login = 't.zvereva@avalon-broker.ru';
-    const sms_pass = 'June2014';
+    const sms_login = 'rutu';
+    const sms_pass = 'jjj';
     const mysql_ip = 'localhost';
     const mysql_user = 'root';
     const mysql_pass = '123';
